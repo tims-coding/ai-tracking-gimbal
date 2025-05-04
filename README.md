@@ -35,7 +35,7 @@ Computer
 
 ## 💻 Software
 
-- Python 3.9
+- Python 3.8 or above
 - [Ultralytics](https://pypi.org/project/ultralytics/)
 - OpenCV
 - pyserial
