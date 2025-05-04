@@ -16,6 +16,12 @@ A real-time person-tracking system using YOLO object detection, OpenCV, and an A
 
 ## 🧰 Hardware
 
+### If Running Detection Only
+
+Computer
+
+### If Running Tracking
+
 | Component         | Description                     |
 |------------------|---------------------------------|
 | Arduino Uno       | Microcontroller for servo control |
